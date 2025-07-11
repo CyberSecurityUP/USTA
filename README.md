@@ -42,5 +42,3 @@ This project is for educational and research purposes only. Use it responsibly.
 ## 📜 License
 
 MIT License
-
-Let me know if you want a version with screenshots or GIFs (e.g. showing `mimikatz` being hooked).
